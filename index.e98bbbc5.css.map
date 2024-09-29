@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["index.e98bbbc5.css","src/style-stars--5.css"],"sourcesContent":[".stars--5 .stars__star {\n  background-image: url(\"star-active.edda4c43.svg\");\n}\n/*# sourceMappingURL=index.e98bbbc5.css.map */\n",".stars--5 .stars__star {\n  background-image: url(images/star-active.svg);\n}\n"],"names":[],"version":3,"file":"index.e98bbbc5.css.map"}
